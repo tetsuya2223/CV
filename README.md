@@ -49,9 +49,6 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 ## 主な職務履歴
 
 
-
----
-
 ## プロジェクト概要
 
 マッチングアプリメディアの新規開発
