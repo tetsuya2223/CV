@@ -48,31 +48,6 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 
 ## 主な職務履歴
 
-## プロジェクト概要
-
-React^18 を使用した開発
-
-## プロジェクト期間
-
-2024 年 10 月〜
-
-## 使用言語・ライブラリ
-
-・React: ^18
-
-・tailWindcss: ^3
-
-・react-router-dom
-
-・react-hook-form
-
-## 担当業務
-
-・
-
-
-## 発揮したバリュー
-
 
 
 ---
