@@ -64,10 +64,11 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 - TypeScript: ^5.1.6
 - storybook: ^7.3.2
 - jest: ^29.6.3
+- testing-library/react: ^14.0.0
   
 ## 担当業務
 
-- 
+## 発揮したバリュー
 
 ---
 
