@@ -65,6 +65,7 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 - storybook: ^7.3.2
 - jest: ^29.6.3
 - testing-library/react: ^14.0.0
+- react-markdown
   
 ## 担当業務
 
