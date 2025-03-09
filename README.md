@@ -33,7 +33,7 @@ Node.js | Nest.js | Prisma | Express | PHP
 
 **インフラ** ★★☆☆☆
 
-MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | GitHub Actions |
+MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | GitHub Actions 
 
 ---
 
