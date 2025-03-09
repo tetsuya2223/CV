@@ -29,17 +29,17 @@ HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React 
 
 Node.js を使用した API の簡易実装経験あり。フロントエンドからのリクエストに応じたデータ処理やレスポンスの構築は可能。
 
-Node.js | Express |
+Node.js | Nest.js | Prisma | Express | PHP
 
 **インフラ** ★★☆☆☆
 
-MySQL | Firebase | GitHub |
+MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel |  GitHub　| GitHub Actions |
 
 ---
 
 ## 自己紹介
 
-私は大学卒業後、大手食品メーカーで営業職を約 2 年務めた後退職をし、BPO や ICT コンサルを行っているベンチャー企業へ入社。
+私は大学卒業後、大手食品メーカーで営業職を約 2 年務めた後退職をし、BPO や ICT コンサルを行っているスモールベンチャー企業へ入社。
 そこで社内外の経理や労務・コンサルを担当しながら、エンジニアリングの勉強をし、HP 作成・保守運用も兼務。
 その後、自社サービスの開発を経験。
 
