@@ -23,7 +23,7 @@
 
 環境構築からリリースまで経験あり。
 
-HTML | CSS | JavaScript | TypeScript | React | Vue | ReactRouter | TailwindCSS | ESLint | Prettier
+HTML | CSS | Sass | TailwindCSS  JavaScript | TypeScript | React | ReactRouter | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
 
 **バックエンド** ★★☆☆☆
 
@@ -114,11 +114,8 @@ React^18 を使用した自動面接ウェブアプリ開発
 ## 使用言語・ライブラリ
 
 - React: ^18
-
-- tailWindcss: ^3
-
+- TailWind CSS: ^3
 - react-router-dom
-
 - react-hook-form
 
 ## 担当業務
@@ -145,16 +142,13 @@ WordPress を使用した HP 作成、保守運用
 
 ## 使用言語・ライブラリ
 
-- HTML
-  
+- HTML5
 - CSS3
-  
 - WordPrees：^5
 
 ## 担当業務
 
 - HP 作成全般
-
 - ホームページの保守運用
 
 ## 発揮したバリュー
