@@ -23,7 +23,7 @@
 
 環境構築から実装・テストまで経験あり。
 
-HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React | ReactRouter | Redux | Redux Toolkit | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
+HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React  | Redux | Redux Toolkit | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
 
 **バックエンド** ★★☆☆☆
 
@@ -79,21 +79,17 @@ React^18 を使用した開発
 
 ## プロジェクト概要
 
-React^18 を使用した開発
+マッチングアプリメディアの新規開発
 
 ## プロジェクト期間
 
-2024 年 6 月〜2024 年 9 月
+2023 年 8 月〜2024 年 8 月
 
 ## 使用言語・ライブラリ
 
-・React: ^18
-
-・tailWindcss: ^3
-
-・react-router-dom
-
-・react-hook-form
+- React: ^18
+- Next.js: ^13
+- TypoScript: ^4
 
 ## 担当業務
 
@@ -103,7 +99,7 @@ React^18 を使用した開発
 
 ## プロジェクト概要
 
-React^18 を使用した自動面接ウェブアプリ開発
+自動面接Webアプリ開発
 
 ## プロジェクト期間
 
@@ -112,9 +108,10 @@ React^18 を使用した自動面接ウェブアプリ開発
 ## 使用言語・ライブラリ
 
 - React: ^18
+- Next.js: ^13
+- TypeScript: ^4
 - TailWind CSS: ^3
-- react-router-dom
-- react-hook-form
+- react-hook-form: ^6
 
 ## 担当業務
 
