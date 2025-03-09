@@ -59,10 +59,12 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 
 ## 使用言語・ライブラリ
 
-- React: ^18
-- Next.js: ^13
-- TypoScript: ^4
-
+- React: 18.2.0
+- Next.js: 13.0.5
+- TypeScript: ^5.1.6
+- storybook: ^7.3.2
+- jest: ^29.6.3
+  
 ## 担当業務
 
 - 
