@@ -27,7 +27,7 @@ HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React 
 
 **バックエンド** ★★☆☆☆
 
-Node.js を使用した API の簡易実装経験あり。フロントエンドからのリクエストに応じたデータ処理やレスポンスの構築は可能。
+Node.js を使用した API の簡易実装経験あり。
 
 Node.js | Nest.js | Prisma | Express | PHP
 
