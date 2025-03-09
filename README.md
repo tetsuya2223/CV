@@ -21,9 +21,9 @@
 
 **フロントエンド** ★★★☆☆
 
-環境構築からリリースまで経験あり。
+環境構築から実装・テストまで経験あり。
 
-HTML | CSS | Sass | TailwindCSS  JavaScript | TypeScript | React | ReactRouter | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
+HTML | CSS | Sass | TailwindCSS | JavaScript | TypeScript | React | ReactRouter | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
 
 **バックエンド** ★★☆☆☆
 
