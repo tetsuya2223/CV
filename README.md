@@ -23,7 +23,7 @@
 
 環境構築から実装・テストまで経験あり。
 
-HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React | ReactRouter | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
+HTML | CSS | Sass | TailwindCSS | CSS Modules | JavaScript | TypeScript | React | ReactRouter | Redux | Redux Toolkit | Next.js PagesRouter | Storybook | ESLint | Prettier | Renovate | date-fns | Jest | React Testing Library
 
 **バックエンド** ★★☆☆☆
 
@@ -42,9 +42,6 @@ MySQL | Firebase | GitHub |
 私は大学卒業後、大手食品メーカーで営業職を約 2 年務めた後退職をし、BPO や ICT コンサルを行っているベンチャー企業へ入社。
 そこで社内外の経理や労務・コンサルを担当しながら、エンジニアリングの勉強をし、HP 作成・保守運用も兼務。
 その後、自社サービスの開発を経験。
-現在は、Sler 企業にてチーム開発、受託開発中。
-技術的な得意分野は「WEB フロントエンド領域における新規開発」です。
-今後はさらに大きな開発に携わり、技術・ビジネススキルのどちらも向上させていきたいと考えています。
 
 ---
 
