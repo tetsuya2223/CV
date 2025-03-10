@@ -55,7 +55,7 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 
 ## プロジェクト期間
 
-2023 年 8 月〜2024 年 現在
+2023 年 8 月〜2025 年 現在
 
 ## 使用言語・ライブラリ
 
