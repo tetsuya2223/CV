@@ -68,6 +68,14 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 - react-markdown
   
 ## 担当業務
+- 共通コンポーネントの実装
+- GitHub Actions を使用した CI/CD の構築
+- Jest と React Testing Library を使用したテスト環境の構築
+- メディア一覧画面の新規実装
+- ページネーション機能の実装
+- カテゴリ検索機能の実装
+- メディア詳細画面の新規実装
+- メディアの記事入稿画面の実装
 
 ## 発揮したバリュー
 
@@ -92,6 +100,9 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 ## 担当業務
 
 グループ企業（社外）のベテランエンジニアが PM をして下さったが、設計から開発は私がほぼ一人で実施。
+- 事前質問フォームの実装
+- 面接画面の実装
+- 簡易的な管理画面の実装
 
 ## 発揮したバリュー
 
