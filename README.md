@@ -51,7 +51,7 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 
 ## プロジェクト概要
 
-マッチングアプリメディアの新規開発
+マッチングアプリメディアの新規開発、保守運用
 
 ## プロジェクト期間
 
@@ -75,7 +75,6 @@ MySQL | Firebase | Firebase Authentication | Google Cloud | Vercel | GitHub | Gi
 - ページネーション機能の実装
 - カテゴリ検索機能の実装
 - メディア詳細画面の新規実装
-- メディアの記事入稿画面の実装
 - Renovateを使用したバージョン管理
 
 ## 発揮したバリュー
